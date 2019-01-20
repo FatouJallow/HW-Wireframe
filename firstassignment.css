@@ -1,0 +1,79 @@
+
+.header 
+{
+width: 95%;
+background: #ebebeb;
+margin: 20px auto;
+padding: 30px;
+text-align: center;
+ }
+
+.header ul{
+    padding: 100px;
+    margin: 40px;
+}
+
+.nav{
+    width: 95%;
+    background:#ebebeb;
+    margin: 20px auto;
+    padding: 30px;
+    text-align: center;
+    }
+    
+    .nav ul{
+        padding: 0px;
+        margin: 0px;
+    }
+    .footer
+    {
+    width: 95%;
+    background: #ebebeb;
+    margin: 20px auto;
+    padding: 30px;
+    text-align: center;
+     }
+    
+    .header ul{
+        padding: 100px;
+        margin: 40px;
+    }
+
+.section{
+     width: 25%;
+        background: #ebebeb;
+        background: #ebebeb;
+        margin: 20px auto;
+        padding: 30px;
+        text-align: center;
+        box-align: left;
+
+         }
+        
+        .section ul{
+            padding: 90px;
+            margin: 40px;
+                position: relative;
+                text-justify: 20px;
+                left: 0px;
+               }
+
+               .aside{
+                width: 25%;
+                   background: #ebebeb;
+                   background: #ebebeb;
+                   margin: 40px auto;
+                   padding: 90px;
+                   text-align: center;
+                   box-align: right;
+                    }
+                   
+                   .aside ul{
+                       padding: 90px;
+                       margin: 20px;
+                           position: absolute;
+                           text-justify: 30px;
+                           left: 0px;
+                          }
+                          
+
